@@ -1,0 +1,13 @@
+
+name = input("Enter your name:")
+age = input("Enter your age:")
+level = input("Enter your level:")
+department = input("Enter your department:")
+school = input(" enter your school:")
+print("Hello " + name + "! you are " + age + " years old and an " + level + " student studying " + department + " in " + school)
+name = input("Enter your name:")
+age = input("Enter your age:")
+level = input("Enter your level:")
+department = input("Enter your department:")
+school = input(" enter your school:")
+print("Hello " + name + "! you are " + age + " years old and an " + level + " student studying " + department + " in " + school)
